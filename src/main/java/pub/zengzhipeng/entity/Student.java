@@ -1,6 +1,5 @@
 package pub.zengzhipeng.entity;
 
-import jdk.nashorn.internal.objects.annotations.Getter;
 
 import java.io.Serializable;
 
